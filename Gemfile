@@ -72,3 +72,5 @@ gem "bootstrap-sass", "~> 3.4"
 gem "sass-rails", "~> 6.0"
 
 gem "jquery-rails", "~> 4.6"
+
+gem "devise", "~> 4.9"
