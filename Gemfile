@@ -65,6 +65,13 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
+
+  gem "rspec-rails"
+  gem 'factory_girl_rails'
+  gem 'rails-controller-testing'
+  gem 'headless'
+  gem 'poltergeist'
+  gem 'database_cleaner'
 end
 
 gem "bootstrap-sass", "~> 3.4"
@@ -76,3 +83,4 @@ gem "jquery-rails", "~> 4.6"
 gem "devise", "~> 4.9"
 
 gem "bootstrap_form", "~> 5.4"
+
