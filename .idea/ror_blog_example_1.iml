@@ -63,8 +63,8 @@
     <orderEntry type="library" scope="PROVIDED" name="drb (v2.1.1, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.12.0, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.9.1, ruby-3.2.2-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v4.9.0, ruby-3.2.2-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="factory_girl_rails (v4.9.0, ruby-3.2.2-p53) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="factory_bot (v6.2.1, ruby-3.2.2-p53) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v3.2.1, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.16.3, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.2.1, ruby-3.2.2-p53) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="headless (v2.3.1, ruby-3.2.2-p53) [gem]" level="application" />
@@ -155,7 +155,6 @@
         <option value="devise:controllers" />
         <option value="devise:install" />
         <option value="devise:views" />
-        <option value="factory_girl:model" />
         <option value="generator" />
         <option value="helper" />
         <option value="integration_test" />
@@ -211,7 +210,6 @@
         <option value="devise:controllers" />
         <option value="devise:install" />
         <option value="devise:views" />
-        <option value="factory_girl:model" />
         <option value="generator" />
         <option value="helper" />
         <option value="integration_test" />

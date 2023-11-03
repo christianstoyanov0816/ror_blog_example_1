@@ -40,6 +40,7 @@ RSpec.configure do |config|
 
 
   config.before(:suite) do
+    ENV['RAILS_ENV'] ||= 'test'
     DatabaseCleaner.clean_with(:truncation)
   end
 

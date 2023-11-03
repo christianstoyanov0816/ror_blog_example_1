@@ -67,7 +67,7 @@ group :test do
   gem "selenium-webdriver"
 
   gem "rspec-rails"
-  gem 'factory_girl_rails'
+  gem 'factory_bot'
   gem 'rails-controller-testing'
   gem 'headless'
   gem 'poltergeist'
@@ -84,3 +84,6 @@ gem "devise", "~> 4.9"
 
 gem "bootstrap_form", "~> 5.4"
 
+
+
+gem "faker", "~> 3.2"
